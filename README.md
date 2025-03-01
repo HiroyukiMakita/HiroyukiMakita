@@ -1,21 +1,12 @@
 
 # About Me
 
-<div style="mix-blend-mode: Difference;">
-<ul>
-<li>
-I'm a web developer from Japan <span style="background-color: #FFFFFF; color:  #bc002d;">&nbsp;&nbsp;●&nbsp;&nbsp;</span>
-</li>
-<li>
-My favorites are TypeScript (on React, Vue or Node.js), Docker environment
-</li>
-<li>
-I am also interested in AI technology these days and am working on it using Python
-</li>
-</ul>
-</div>
+- I'm a web developer from Japan 🇯🇵
+- My favorites are TypeScript (on React, Vue or Node.js), Docker environment
+- I am also interested in AI technology these days and am working on it using Python
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiroyukiMakita&theme=2077)
+![top-language-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiroyukiMakita&theme=2077)
+![guthub-summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiroyukiMakita&theme=algolia)
 
 ## Programming Languages
 
