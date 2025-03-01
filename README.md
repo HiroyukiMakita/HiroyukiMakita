@@ -1,7 +1,7 @@
 
 # About Me
 
-- I'm a web developer from Japan <span class="darkmode-ignore" style="background-color: #FFFFFF; color:  #bc002d;">&nbsp;&nbsp;●&nbsp;&nbsp;</span>
+- I'm a web developer from Japan <span style="mix-blend-mode: Difference; background-color: #FFFFFF; color:  #bc002d;">&nbsp;&nbsp;●&nbsp;&nbsp;</span>
 
 - My favorites are TypeScript (on React, Vue or Node.js), Docker environment
 
