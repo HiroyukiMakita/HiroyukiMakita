@@ -9,14 +9,14 @@
 
 ## Programming Languages
 
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,dart,php,python," /> <br /><br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,dart,php,python,&=true)
 
 ## Frameworks and Library
 
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=react,next,vue,nuxt,flutter,nodejs,express,fastapi,laravel,symfony,prisma,graphql,jest,langchain," /> <br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next,vue,nuxt,flutter,nodejs,express,fastapi,laravel,symfony,prisma,graphql,jest,langchain,&=true)
 
 ## DB and Dev Tools etc
 
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,redis,neo4j," /> <br /><br />
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=docker,openstack,git,github,githubactions,terraform,ansible,linux,aws,azure,oracle,nginx," /> <br /><br />
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=miro,figma,notion,obsidian,vscode,phpstorm,cursor," /> <br /><br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,redis,neo4j,,&=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,openstack,git,github,githubactions,terraform,ansible,linux,aws,azure,oracle,nginx,&=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=miro,figma,notion,obsidian,vscode,phpstorm,cursor,&=true)
