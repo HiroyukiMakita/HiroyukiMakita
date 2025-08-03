@@ -13,8 +13,10 @@
 
 ## Frameworks and Library
 
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=react,next,vue,nuxt,flutter,nodejs,express,fastapi,laravel,symfony,prisma,graphql,jest," /> <br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=react,next,vue,nuxt,flutter,nodejs,express,fastapi,laravel,symfony,prisma,graphql,jest,langchain," /> <br />
 
 ## DB and Dev Tools etc
 
-<img src="https:///go-skill-icons.vercel.app/api/icons?i=mysql,redis,openstack,docker,git,github,githubactions,vscode,phpstorm,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,redis,neo4j," /> <br /><br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=docker,openstack,git,github,githubactions,terraform,ansible,linux,aws,azure,oracle,nginx," /> <br /><br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=miro,figma,notion,obsidian,vscode,phpstorm,cursor," /> <br /><br />
