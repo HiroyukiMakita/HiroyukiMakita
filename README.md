@@ -1,4 +1,3 @@
-
 # About Me
 
 - I'm a web developer from Japan 🇯🇵
@@ -10,12 +9,12 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,dart,php,python," /> <br /><br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,dart,php,python," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,flutter,nodejs,express,fastapi,laravel,symfony,prisma,graphql,jest," /> <br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=react,next,vue,nuxt,flutter,nodejs,express,fastapi,laravel,symfony,prisma,graphql,jest," /> <br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,openstack,docker,git,github,githubactions,vscode,phpstorm,linux,aws,azure,figma,nginx," /> <br /><br />
+<img src="https:///go-skill-icons.vercel.app/api/icons?i=mysql,redis,openstack,docker,git,github,githubactions,vscode,phpstorm,linux,aws,azure,figma,nginx" /> <br /><br />
